@@ -23,4 +23,4 @@ You have the data for the 100 top-rated movies from the past decade along with v
 
 9. There are some checkpoints given in the IPython notebook provided. They're just useful pieces of information you can use to check if the result you have obtained after performing a particular task is correct or not.
 
-10. Optional subtasks are given in the notebook for which i haven't given the solution code. Because, I want people to solve those questions after you are done with the assignment as a good practice.
+10. Optional subtasks are given in the notebook for which i haven't given the solution code. Because, I want you to solve those questions after you are done with the assignment as a good practice.
